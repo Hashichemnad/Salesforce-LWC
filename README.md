@@ -29,10 +29,10 @@
     
 ## Section Three:
 
-  -[ ] Start with LWC
+  - [ ] Start with LWC
     - https://trailhead.salesforce.com/en/content/learn/trails/build-lightning-web-components
      
-  -[ ] Training Videos
+  - [ ] Training Videos
     - https://youtu.be/KQKFtR3NxEI
     - https://youtu.be/rODp-BoT_xs
     - https://youtu.be/knVr45N_peY
@@ -40,5 +40,19 @@
     
   - [ ] Sample Projects Handson
     - https://trailhead.salesforce.com/content/learn/projects/lwc-build-flexible-apps
-    - 
-      
+
+
+> - Select a simple project topic before starting Section 4.
+> - Prepare DB Structure , Objects & Fields , Flow Diagram , Api details , Simple UI
+> - Topic EX : Library Management, Online Book Selling, Vehicle rental, Travel agency
+
+## Section Four
+
+  - [ ] Create Header Component
+    - [Html] ()
+    - [JS] ()
+    - [XML] ()
+  - [ ] Create Form Component
+    - [Html] ()
+    - [JS] ()
+    - [XML] ()
