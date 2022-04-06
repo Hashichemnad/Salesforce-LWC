@@ -49,8 +49,19 @@
 ## Section Four
 
   - [ ] Create Header Component
-    - [Html] (./header.html)
+    - [Html](./header.html)
     
   - [ ] Create Form Component
-    - [Html] (./Register_Form.html)
-    - [JS] (./Register_Form.js)
+    - [Html](./Register_Form.html)
+    - [JS](./Register_Form.js)
+
+  - [ ] Create a Lightning Page and Add both components
+    - Go to Setup -> Lightning App Builder -> App Page -> New -> Label Name -> Header and Right Sidebar -> Finish
+    - From Left panel drag Header component & Register Form Component to Page
+    ![alt Lightning App Builder](./lightningappbuilder.jpg)
+    
+    
+  - [ ] Create Visualforce Page and Add both components
+    - [Aura Application](./myForm.app) - Create Aura Application to call the lightning components
+    - [Visualforce Page](./Register_Form.vfp) - Calling LWC Component by rendering through Aura component
+    ![alt Visualforce Page](./visualforcepage.jpg)
