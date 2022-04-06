@@ -49,9 +49,11 @@
 ## Section Four
 
   - [ ] Create Header Component
+    - Create LWC , name - header
     - [Html](./header.html)
     
   - [ ] Create Form Component
+    - Create LWC , name - Register_Form
     - [Html](./Register_Form.html)
     - [JS](./Register_Form.js)
 
