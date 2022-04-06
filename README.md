@@ -49,10 +49,8 @@
 ## Section Four
 
   - [ ] Create Header Component
-    - [Html] ()
-    - [JS] ()
-    - [XML] ()
+    - [Html] (./header.html)
+    
   - [ ] Create Form Component
-    - [Html] ()
-    - [JS] ()
-    - [XML] ()
+    - [Html] (./Register_Form.html)
+    - [JS] (./Register_Form.js)
