@@ -5,7 +5,7 @@
 
 ## Section One:
 
--[ ] Setting up Environment.
+- [ ] Setting up Environment.
   - You can start creating LWC through VSCode or Thirdparty IDE/Chrome Extension
   - Follow Either Method to setup your working Envirnment/IDE
     - VSCode - https://trailhead.salesforce.com/content/learn/projects/quick-start-lightning-web-components
@@ -14,16 +14,16 @@
 
 ## Section Two:
 
-  -[ ] HTML
+  - [ ] HTML
     - https://youtu.be/cLeUejh3ZsM
     
-  -[ ] JavaScript
+  - [ ] JavaScript
     - https://youtu.be/JjWmbOXc0BA
     - https://youtu.be/-yQD3MmuS-c
     - https://trailhead.salesforce.com/content/learn/modules/javascript-essentials-salesforce-developers
     - https://trailhead.salesforce.com/content/learn/modules/modern-javascript-development
     
-  -[ ] CSS
+  - [ ] CSS
     - https://youtu.be/g1mN2z4wPNA
     
     
@@ -38,7 +38,7 @@
     - https://youtu.be/knVr45N_peY
     - https://youtu.be/1zM_9i6qezY
     
-  -[ ] Sample Projects Handson
+  - [ ] Sample Projects Handson
     - https://trailhead.salesforce.com/content/learn/projects/lwc-build-flexible-apps
     - 
       
