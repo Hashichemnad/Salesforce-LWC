@@ -55,7 +55,7 @@
   - [ ] Create Form Component
     - Create LWC , name - Register_Form
     - [Register_Form.html](./Register_Form.html)
-    - [JRegister_Form.js](./Register_Form.js)
+    - [Register_Form.js](./Register_Form.js)
 
   - [ ] Create a Lightning Page and Add both components
     - Go to Setup -> Lightning App Builder -> App Page -> New -> Label Name -> Header and Right Sidebar -> Finish
